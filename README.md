@@ -4,7 +4,7 @@ J'administre des **SGBD spatiaux**, j'automatise les **traitements de données**
 
 ## Technologies utilisées
 
-- **Base de données spatiales** : PostGIS
+- **Base de données spatiales** : PostgreSQL/PostGIS
 - **Automatisation et traitements** : Python, Airflow, GDAL
 - **Publication et visualisation** : GeoServer, Martin
 - **Web** : VMap, Flask, MapLibre, HTML, CSS, JS
