@@ -7,5 +7,5 @@ J'administre des **SGBD spatiaux**, j'automatise les **traitements de données**
 - **Automatisation et traitements** : Python, Airflow, GDAL
 - **Publication et services webcarto** : GeoServer, Martin
 - **Web** : VMap, Flask, MapLibre, HTML, CSS, JS
-- **Desktop utilisateurs** : QGIS
+- **Desktop** : QGIS
 - **Outils de développement** : Git, Docker
