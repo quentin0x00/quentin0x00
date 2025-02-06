@@ -5,7 +5,7 @@ J'administre des **SGBD spatiaux**, j'automatise les **traitements de données**
 ### Outils:
 - **Base de données spatiales** : PostgreSQL/PostGIS
 - **Automatisation et traitements** : Python, Airflow, GDAL
-- **Publication et visualisation** : GeoServer, Martin
+- **Publication et services webcarto** : GeoServer, Martin
 - **Web** : VMap, Flask, MapLibre, HTML, CSS, JS
 - **Desktop utilisateurs** : QGIS
 - **Outils de développement** : Git, Docker
