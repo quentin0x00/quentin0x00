@@ -2,7 +2,7 @@
 
 J'administre des **SGBD spatiaux**, j'automatise les **traitements de données** et je gère des **portails web-carto**. 
 
-### Outils
+### Outils:
 - **Base de données spatiales** : PostgreSQL/PostGIS
 - **Automatisation et traitements** : Python, Airflow, GDAL
 - **Publication et visualisation** : GeoServer, Martin
