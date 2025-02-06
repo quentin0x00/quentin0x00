@@ -8,4 +8,4 @@ J'administre des **SGBD spatiaux**, j'automatise les **traitements de données**
 - **Publication et services webcarto** : GeoServer, Martin
 - **Web** : VMap, Flask, MapLibre, HTML, CSS, JS
 - **Desktop** : QGIS
-- **Outils de développement** : Git, Docker
+- **Utilitaires** : Git, Docker
