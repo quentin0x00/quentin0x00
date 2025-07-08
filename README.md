@@ -12,9 +12,9 @@ Je développe des outils adaptés aux besoins métiers, avec une attention parti
 - 🧩 **Projets QGIS clé-en-main** : scripts PyQGIS, plugins QGIS, formulaires, atlas, impressions, projets préconfigurés.
 - 🗃️ **Bases de données PostgreSQL/PostGIS** : modélisation, administration, intégration de données, triggers, procédures stockées et fonctions SQL avancées.
 - 🌐 **Services web cartographiques** : interface utilisateur avec **VMap**, serveurs **GeoServer**, publication de flux **WMS/WMTS/WFS**, visualisations web personnalisées avec **MapLibre JS** et **Flask**.
-- ⚙️ **Automatisations & intégrations** : traitements **Python** et **ETL** avec `GDAL/ogr2ogr`, **GeoPandas**, **psycopg2**, appels d’**API**, et utilitaires divers.  
-  Planification des workflows via **Airflow** ou **cron**.  
-  Mise en œuvre d’**ELT** avec traitements en base (triggers, fonctions et procédures SQL).
+- ⚙️ **Automatisations & intégrations** : traitements **Python** et **ETL** avec `GDAL/ogr2ogr`, `GeoPandas`, `psycopg2`, appels d’**API**, et utilitaires divers.  
+  Planification des workflows via `Airflow` ou `cron`.  
+  Mise en œuvre d’**ELT** avec traitements SQL en base (triggers, fonctions et procédures SQL).
 
 🔗 [Portfolio/Web Storymap](https://app.quentinrouquette.fr/)  
 
