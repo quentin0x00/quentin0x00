@@ -5,7 +5,6 @@ J'administre un **SGBD spatial**, automatise les **traitements de données** et 
 
 🔗 [Portfolio/Web Storymap](https://app.quentinrouquette.fr/)   
 
----
 
 ## Fabriquer des solutions sur mesure
 
@@ -15,8 +14,6 @@ Je développe des outils adaptés aux besoins métiers :
  - Bases PostgreSQL/PostGIS (administration, intégration, maintenance, fonctions, procédure et triggers SQL)
  - Web-carto & services (Vmap, GeoServer, MapLibre, Flask)
  - Automatisation des traitements (Python, GDAL ogr2ogr, Airflow, SQL)
-
----
 
 ## Ma boite à outils
 
