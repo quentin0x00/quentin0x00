@@ -1,7 +1,7 @@
 # Bienvenue ! ☕
 
-**Géomaticien** chez [Abei Energy](https://www.abeienergy.com/) — Nantes.  
-J'administre un **SGBD spatial**, automatise les **traitements de données** et gère un **portail web-carto**.
+Géomaticien chez Abei Energy, basé à Nantes.  
+J'administre un SGBD spatial, automatise les traitements de données et gère un portail web-carto.
 
 🔗 [Mon parcours/Web Storymap](https://app.quentinrouquette.fr/)   
 
