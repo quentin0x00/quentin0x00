@@ -25,6 +25,3 @@ Je développe des outils adaptés aux besoins métiers :
 - **Publication et services webcarto** : `GeoServer`, `pg_tileserv`
 - **Web** : `VMap`, `Flask, MapLibre | HTML, CSS, JS`
 - **Desktop** : `QGIS`
----
-
-## Voir mes projets perso ci-dessous 👇
