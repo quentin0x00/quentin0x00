@@ -12,4 +12,4 @@ Je développe des outils adaptés aux besoins métiers :
  - Projets QGIS clé-en-main (scripts PyQGIS, plugins, atlas, projet préconfiguré)
  - Bases PostgreSQL/PostGIS (administration, intégration, maintenance, fonctions, procédure et triggers SQL)
  - Web-carto & services (Vmap, GeoServer, Pg_tileserv, MapLibre, Flask)
- - Automatisation des traitements (Python, GDAL ogr2ogr, Airflow, SQL
+ - Automatisation des traitements (Python, GDAL ogr2ogr, Airflow, SQL)
