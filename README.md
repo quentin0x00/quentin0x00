@@ -5,7 +5,7 @@ J'administre un **SGBD spatial**, automatise les **traitements de données** et 
 
 ---
 
-## Résoudre des problèmes, apprendre, et créer des solutions sur mesure
+## Fabriquer des solutions sur mesure
 
 Je développe des outils adaptés aux besoins métiers, avec une attention particulière à l’expérience utilisateur côté SIG :
 
