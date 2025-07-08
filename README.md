@@ -12,13 +12,5 @@ Je développe des outils adaptés aux besoins métiers :
   
  - Projets QGIS clé-en-main (scripts PyQGIS, plugins, atlas, projet préconfiguré)
  - Bases PostgreSQL/PostGIS (administration, intégration, maintenance, fonctions, procédure et triggers SQL)
- - Web-carto & services (Vmap, GeoServer, MapLibre, Flask)
- - Automatisation des traitements (Python, GDAL ogr2ogr, Airflow, SQL)
-
-## Ma boite à outils
-
-- **Base de données spatiales** : `PostgreSQL/PostGIS`
-- **Automatisation et traitements** : `Python`, `Airflow`, `GDAL`, `PostgreSQL/PostGIS`
-- **Publication et services webcarto** : `GeoServer`, `pg_tileserv`
-- **Web** : `VMap`, `Flask, MapLibre | HTML, CSS, JS`
-- **Desktop** : `QGIS`
+ - Web-carto & services (Vmap, GeoServer, Pg_tileserv, MapLibre, Flask)
+ - Automatisation des traitements (Python, GDAL ogr2ogr, Airflow, SQL
