@@ -10,14 +10,11 @@ J'administre un **SGBD spatial**, automatise les **traitements de données** et 
 ## Fabriquer des solutions sur mesure
 
 Je développe des outils adaptés aux besoins métiers, avec une attention particulière à l’expérience utilisateur côté SIG :
-
-- 🧩 **Projets QGIS clé-en-main** : scripts PyQGIS, plugins QGIS, formulaires, atlas, impressions, projets préconfigurés.
-- 🗃️ **Bases de données PostgreSQL/PostGIS** : modélisation, administration, intégration de données, triggers, procédures stockées et fonctions SQL avancées.
-- 🌐 **Services web cartographiques** : interface utilisateur avec **VMap**, serveurs **GeoServer**, publication de flux **WMS/WMTS/WFS**, visualisations web personnalisées avec **MapLibre JS** et **Flask**.
-- ⚙️ Automatisations & intégrations : mise en œuvre de workflows ETL/ELT selon les besoins.
-ETL avec scripts Python pour le traitement de données spatiales (GDAL, GeoPandas, psycopg2, API).
-ELT avec traitements SQL en base (fonctions, triggers, procédures).
-Planification des tâches avec Airflow ou cron.
+  
+ - Projets QGIS clé-en-main (scripts PyQGIS, plugins, atlas, projet préconfiguré)
+ - Bases PostgreSQL/PostGIS (administration, intégration, maintenance, fonctions, procédure et triggers SQL)
+ - Web-carto & services (Vmap, GeoServer, MapLibre, Flask)
+ - Automatisation des traitements (Python, GDAL ogr2ogr, Airflow, SQL)
 
 ---
 
