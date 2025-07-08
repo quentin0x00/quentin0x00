@@ -5,9 +5,9 @@ J'administre un **SGBD spatial**, automatise les **traitements de données** et 
 
 ---
 
-## Créateur d’outils sur mesure
+## Résoudre des problèmes, apprendre, et créer des solutions sur mesure
 
-Je conçois et développe des outils adaptés aux besoins métiers, avec une attention particulière à l’expérience utilisateur côté SIG :
+Je développe des outils adaptés aux besoins métiers, avec une attention particulière à l’expérience utilisateur côté SIG :
 
 - 🧩 **Projets QGIS clé-en-main** : scripts PyQGIS, plugins QGIS, formulaires, atlas, impressions, projets préconfigurés.
 - 🗃️ **Bases de données PostgreSQL/PostGIS** : modélisation, administration, intégration de données, triggers, procédures stockées et fonctions SQL avancées.
