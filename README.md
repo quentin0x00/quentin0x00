@@ -4,13 +4,19 @@
 J'administre un **SGBD spatial**, automatise les **traitements de données** et gère un **portail web-carto**.
 
 🔗 [Mon parcours/Web Storymap](https://app.quentinrouquette.fr/)   
- 
 
---- 
+---
 
 Je développe des outils adaptés aux besoins métiers :
-  
- - `Projets QGIS clé-en-main` - Plugins, actions & scripts pyqgis, formulaires, atlas, projets préconfigurés et stockés en base
- - `Bases PostgreSQL/PostGIS` - Administration, intégration, maintenance, fonctions, procédure et triggers SQL personnalisés
- - `Web-carto & services` - Vmap, GeoServer, Pg_tileserv, MapLibre, Flask
- - `Automatisation des traitements` - Python, GDAL ogr2ogr, Airflow, SQL
+
+- **Projets QGIS clé-en-main**  
+  _Plugins, actions & scripts pyqgis, formulaires, atlas, projets préconfigurés et stockés en base_
+
+- **Bases PostgreSQL/PostGIS**  
+  _Administration, intégration, maintenance, fonctions, procédure et triggers SQL personnalisés_
+
+- **Web-carto & services**  
+  _Vmap, GeoServer, Pg_tileserv, MapLibre, Flask_
+
+- **Automatisation des traitements**  
+  _Python, GDAL ogr2ogr, Airflow, SQL_
