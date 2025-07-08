@@ -31,14 +31,4 @@ Je conçois et développe des outils adaptés aux besoins métiers, avec une att
 
 ---
 
-## Quelques projets (voir ci-dessus)
-
-- 🔹 Générateur de rapports Word dans QGIS  
-- 🔹 Parcelles ULDK via écoute PostgreSQL  
-- 🔹 Storymaps légères en Flask + MapLibre  
-- 🔹 Scripts PyQGIS pour analyses environnementales
-
----
-
-> 📬 Tu bosses sur un projet SIG complexe ? Échangeons !
-🔗 [LinkedIn](https://linkedin.com/in/quentin-rouquette-0x00)
+## Voir mes projets ci-dessouss 👇
