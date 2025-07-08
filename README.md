@@ -1,11 +1,11 @@
-# 👋 Quentin Rouquette
+# Bienvenue ! ☕
 
 **Géomaticien** chez [Abei Energy](https://www.abeienergy.com/) — Nantes, France  
 J'administre des **SGBD spatiaux**, j'automatise les **traitements de données** et je gère des **portails web-carto**. 
 
 ---
 
-## 🧰 Créateur d’outils sur mesure
+## Créateur d’outils sur mesure
 
 Je conçois et développe des outils adaptés aux besoins métiers, avec une attention particulière à l’expérience utilisateur côté SIG :
 
@@ -20,7 +20,7 @@ Je conçois et développe des outils adaptés aux besoins métiers, avec une att
 
 ---
 
-## 🛠️ Outils
+## Ma boite à outils
 
 - **Base de données spatiales** : PostgreSQL/PostGIS
 - **Automatisation et traitements** : Python, Airflow, GDAL
@@ -31,7 +31,7 @@ Je conçois et développe des outils adaptés aux besoins métiers, avec une att
 
 ---
 
-## 🧩 Quelques projets (voir ci-dessus)
+## Quelques projets (voir ci-dessus)
 
 - 🔹 Générateur de rapports Word dans QGIS  
 - 🔹 Parcelles ULDK via écoute PostgreSQL  
