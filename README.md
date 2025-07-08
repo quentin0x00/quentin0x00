@@ -27,4 +27,4 @@ Je développe des outils adaptés aux besoins métiers :
 - **Desktop** : `QGIS`
 ---
 
-## Voir mes projets ci-dessous 👇
+## Voir mes projets perso ci-dessous 👇
