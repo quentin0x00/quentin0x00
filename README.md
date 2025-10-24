@@ -19,4 +19,4 @@ Je développe des outils adaptés aux besoins métiers :
   _Vmap, GeoServer, Pg_tileserv, MapLibre, Flask_
 
 - **Automatisation des traitements**  
-  _Python, GDAL ogr2ogr, Airflow, SQL_
+  _Python, GDAL ogr2ogr, SQL_
