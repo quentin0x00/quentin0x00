@@ -3,7 +3,7 @@
 Géomaticien chez Abei Energy, basé à Nantes.  
 J'administre un SGBD spatial, automatise les traitements de données et gère un portail web-carto.
 
-🗺️ [Mon CV/Web Storymap](https://cv.quentinrouquette.fr/)   
+🗺️ [Mon parcours](https://cv.quentinrouquette.fr/)   
 
 ---
 
