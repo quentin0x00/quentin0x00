@@ -15,8 +15,8 @@ Je développe des outils adaptés aux besoins métiers :
 - **Bases PostgreSQL/PostGIS**  
   _Administration, intégration, maintenance, fonctions, procédure et triggers SQL personnalisés_
 
-- **Web-carto & services**  
-  _Vmap, GeoServer, Pg_tileserv, MapLibre, Flask_
+- **Web-carto, serveur & services**  
+  _Vmap, GeoServer, Pg_tileserv, MapLibre, Flask, Debian, Docker, Nginx_
 
 - **Automatisation des traitements**  
   _Python, GDAL ogr2ogr, SQL_
