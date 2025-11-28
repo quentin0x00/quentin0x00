@@ -20,3 +20,10 @@ Je développe des outils adaptés aux besoins métiers :
 
 - **Automatisation des traitements**  
   _Python, GDAL ogr2ogr, SQL_
+
+---
+
+Entrez en contact :
+- **Mail :** [contact@quentinrouquette.fr](mailto:contact@quentinrouquette.fr)
+- **LinkedIn :** [www.linkedin.com/in/quentin-rouquette](https://www.linkedin.com/in/quentin-rouquette)
+
